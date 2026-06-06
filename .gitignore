@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+
+dog_breed_model.keras
+
+train/
+test/
+test_image/
